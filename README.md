@@ -6,7 +6,8 @@
 
 ## Kibana 출력
 
-![image](https://user-images.githubusercontent.com/44639709/112155328-8a314f80-8c28-11eb-87ee-f5623ddd21f5.png)
+![image](https://user-images.githubusercontent.com/44639709/112156671-cf09b600-8c29-11eb-899f-0777633ea6b4.png)
+
 
 **filebeat.exe -e -c filebeat.yml**
 
